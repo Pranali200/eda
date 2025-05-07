@@ -1,0 +1,25 @@
+# Node.js dependencies (React frontend)
+node_modules/
+build/
+
+# Python cache & virtual environments (Django backend)
+__pycache__/
+*.py[cod]
+*.sqlite3
+env/
+venv/
+.venv/
+
+# Environment & configuration files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Editor & OS files
+.vscode/
+.DS_Store
+
+# Django migration caches
+**/migrations/__pycache__/
