@@ -1,6 +1,6 @@
 import { Tooltip } from '@mui/material'
 import React from 'react'
-import { BarChart, ResponsiveContainer, XAxis, YAxis } from 'recharts'
+import { BarChart, ResponsiveContainer, XAxis, YAxis, Bar } from 'recharts'
 
 const SalesBarChart = ({data}) =>{
     return (
